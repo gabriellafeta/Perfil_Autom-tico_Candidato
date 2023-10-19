@@ -427,7 +427,10 @@ def consolidado():
 
     return df_condolidado_ordenado
 ```
+Então, é gerado a tabela em excel no formato abaixo que pode ser utilziada para automatizar decisões de recrutamento e seleção para vagas específicas:
 
-
+<img src="entregavel.png"
+   width="1000"
+     height="200">
 
 
